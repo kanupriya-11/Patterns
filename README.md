@@ -4,6 +4,7 @@ This repo consists of all types of patterns.
 
 ## All Patterns:-
 
+<pre>
 1. Simple Pyramid Pattern
 
 * 
@@ -26,12 +27,12 @@ This repo consists of all types of patterns.
 
 3. Right Half Pyramid
 
-            * 
-          * * 
-        * * * 
-      * * * * 
-    * * * * * 
-  * * * * * *
+          * 
+        * * 
+      * * * 
+    * * * * 
+  * * * * * 
+* * * * * *
   
   
  4. Inverted Right Half Pyramid
@@ -42,4 +43,4 @@ This repo consists of all types of patterns.
       * * * 
         * * 
           * 
-
+</pre>
