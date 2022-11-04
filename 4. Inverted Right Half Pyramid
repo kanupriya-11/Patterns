@@ -1,0 +1,33 @@
+OUTPUT:-
+
+* * * * * * 
+  * * * * * 
+    * * * * 
+      * * * 
+        * * 
+          * 
+
+
+CODE:-
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+   
+   for(int i=0;i<6;i++)
+   {
+       for(int j=0;j<i;j++)
+       {
+           cout<<"  ";
+       }
+       for(int k=i;k<6;k++)
+       {
+           cout<<"* ";
+       }
+       cout<<endl;
+   }
+
+    return 0;
+}
